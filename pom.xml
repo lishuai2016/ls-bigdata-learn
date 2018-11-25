@@ -32,6 +32,7 @@
         <module>ls-storm</module>
         <module>ls-kafka</module>
         <module>ls-elasticsearch</module>
+        <module>ls-redis</module>
     </modules>
 
 
